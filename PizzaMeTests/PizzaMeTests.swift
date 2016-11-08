@@ -2,8 +2,7 @@
 //  PizzaMeTests.swift
 //  PizzaMeTests
 //
-//  Created by Spinneweber, Robert on 7/19/16.
-//  Copyright © 2016 Spinneweber, Robert. All rights reserved.
+//  Copyright © 2016 Charles Schwab & Co., Inc. All rights reserved.
 //
 
 import XCTest
